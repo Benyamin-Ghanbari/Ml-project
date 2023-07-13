@@ -1,10 +1,12 @@
+# in this program first we create our dataset with web scraping , and then we build our model 
+# car price prediction
 import requests
 from bs4 import BeautifulSoup
 import mysql.connector
 import re
 from sklearn import tree
 from sklearn import preprocessing
-
+# create dataset and store to data base
 brand = input('please enter your brand : ')
 model = input('please enter your model : ')
 brand = brand.lower()
