@@ -16,6 +16,19 @@ Welcome to [Your Project Name], where your literary journey begins! 📚✨
 ## About [Your Project Name]
 
 [Your Project Name] is a multi-phase project aimed at collecting and analyzing data from various bookstores. Our goal is to create a comprehensive database and an insightful dashboard, enabling statistical analysis to unveil fascinating insights about the diverse world of literature.
+<div>
+    <h2>Meet Our Team</h2>
+
+<div class="team-member">
+        <img src="TEAM_MEMBER_IMAGE_URL" alt="Team Member Name">
+        <h3>Team Member Name</h3>
+        <p>Role/Position</p>
+        <a href="https://github.com/youngbenyamin">GitHub Profile</a>
+</div>
+
+    <!-- Add more team members following the same structure -->
+</div>
+
 
 ## Project Phases
 
