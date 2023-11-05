@@ -11,7 +11,7 @@
 
 <body>
     <header>
-        <h1>Booktopia - Your Literary Journey Begins Here</h1>
+        <h1 id="projectTitle">Loading...</h1>
         <p>Welcome to Booktopia, a project that takes you on a captivating journey through the world of books. Whether you're a passionate bookworm, an avid reader, or a data enthusiast, this project is designed to open the doors to a treasure trove of information about books, their authors, and translators.</p>
     </header>
 
@@ -37,9 +37,14 @@
         <a href="link_to_your_github">Explore Booktopia on GitHub</a>
         <p>Contact us for inquiries and collaboration opportunities.</p>
     </section>
+
+    <script>
+        // Replace this string with your actual project title
+        const projectTitle = "Booktopia - Your Literary Journey Begins Here";
+        document.getElementById("projectTitle").innerText = projectTitle;
+    </script>
 </body>
 
 </html>
-
 
 
