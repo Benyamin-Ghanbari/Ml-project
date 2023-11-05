@@ -1,6 +1,6 @@
 # Ml-project
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%87CEEB;&size=30&center=true&vCenter=true&width=450&lines=Welcome;To;Booktopia"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%87CEEB;&size=30&center=true&vCenter=true&width=450&lines=Welcome To Booktopia"></a>
 </div>
 
 <h2>:bulb: Languages We code in</h2>
