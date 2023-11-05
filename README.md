@@ -1,5 +1,7 @@
 # Ml-project
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="MySQL" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
+
 # Welcome to [Your Project Name]
 
 Welcome to [Your Project Name], where your literary journey begins! 📚✨
