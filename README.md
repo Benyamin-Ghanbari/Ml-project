@@ -55,6 +55,31 @@ In this final phase, our focus shifts to statistical analysis and hypothesis tes
 Happy reading and exploring! 📚✨
 
 *[Your Project Name] Team*
+<div>
+    <h2>Meet Our Team</h2>
+
+<div class="team-member">
+        <h3>Hossein Raei</h3>
+        <a href="https://github.com/Raei-MH">GitHub Profile</a>
+    </div>
+
+<div class="team-member">
+        <h3>Benyamin Ghanbari</h3>
+        <a href="https://github.com/youngbenyamin">GitHub Profile</a>
+    </div>
+
+<div class="team-member">
+        <h3>Sana Mousavi</h3>
+        <a href="https://github.com/sanoooavi">GitHub Profile</a>
+    </div>
+
+<div class="team-member">
+        <h3>Mohammad Amin Ahanin</h3>
+        <img src="TEAM_MEMBER_1_IMAGE_URL" alt="Team Member 1">
+        <a href="https://github.com/mohAhanin">GitHub Profile</a>
+    </div>
+</div>
+
 
 Explore [Your Project Name on GitHub](#GitHubLink)
 
